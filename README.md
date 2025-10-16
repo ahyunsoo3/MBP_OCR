@@ -3,3 +3,10 @@ Make a better page (MBP) is for extracting texts on image using OCR, such as pyt
 
 This proejct is fundamantally made by a personal purpose.
 
+<br><br><br>
+
+
+
+
+## License
+This project is licensed under the [Apache License 2.0](./LICENSE).
